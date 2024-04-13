@@ -228,7 +228,7 @@ body.dark {
 .burger {
   display: none;
   background: transparent;
-  z-index: 3;
+  z-index: 4;
 }
 
 .hero {
@@ -500,7 +500,7 @@ body.dark {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    z-index: 2;
+    z-index: 3;
     -webkit-animation: fade 0.1s linear;
             animation: fade 0.1s linear;
   }
