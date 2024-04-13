@@ -258,7 +258,7 @@ body.dark {
 }
 
 .about-us__title {
-  margin: 0 0 0 155px;
+  margin: 0 0 0 195px;
   font-size: calc(22px + 24 * (100vw - 320px) / 1600);
   text-transform: uppercase;
   letter-spacing: 10.1px;
@@ -266,7 +266,7 @@ body.dark {
 }
 
 .about-us__subtitle {
-  margin: 0 0 0 155px;
+  margin: 0 0 0 195px;
   font-size: calc(18px + 22 * (100vw - 320px) / 1600);
   letter-spacing: 4px;
   line-height: 52px;
@@ -277,7 +277,7 @@ body.dark {
   font-size: calc(18px + 22 * (100vw - 320px) / 1600);
   letter-spacing: 4px;
   line-height: 52px;
-  max-width: 403px;
+  max-width: 420px;
   margin: 0 0 130px 245px;
 }
 
