@@ -344,9 +344,9 @@ body.dark {
 }
 
 .us-info__block:nth-child(2) {
-  -webkit-transform: translatex(20px);
-      -ms-transform: translatex(20px);
-          transform: translatex(20px);
+  -webkit-transform: translatex(15px);
+      -ms-transform: translatex(15px);
+          transform: translatex(15px);
 }
 
 .us-info__block:nth-child(2)::after {
@@ -370,9 +370,9 @@ body.dark {
 }
 
 .us-info__block:nth-child(3) {
-  -webkit-transform: translatex(40px);
-      -ms-transform: translatex(40px);
-          transform: translatex(40px);
+  -webkit-transform: translatex(30px);
+      -ms-transform: translatex(30px);
+          transform: translatex(30px);
 }
 
 .us-info__block:nth-child(3)::after {
